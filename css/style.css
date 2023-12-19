@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #09111a;
+}
+
+.text-uppercase span {
+    -webkit-text-stroke: 1px #fff;
+    color: transparent;
+}
+
+.bg-primary,
+.btn-primary {
+    background-color: #151A48 !important;
+    border: none;
+}
+
+.contact-option .icon {
+    align-items: center;
+    background: rgba(220, 150, 90, .1);
+    border-radius: 50%;
+    color: #3b4acf;
+    display: inline-flex;
+    font-size: 24px;
+    height: 60px;
+    justify-content: center;
+    width: 60px;
+}
